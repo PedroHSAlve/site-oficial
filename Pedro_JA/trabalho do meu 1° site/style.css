@@ -1,0 +1,45 @@
+/* Resetando margens e preenchimentos */
+* {
+    margin: 50px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+/* Corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    background-color: #57b6eca8; /* Cor de fundo */
+    background-image: ;
+    color: #000000; /* Cor do texto */
+    line-height: 1.4; /* Altura da linha */
+    padding: 20px; /* Preenchimento */
+}
+/* Estilo do título principal */
+h1 {
+    font-size: 2.5em; /* Tamanho do texto */
+    text-align: right; /* justificar o texto*/
+    color: #000000; /* Cor do título */
+    font-size: x-large; /* Tamanho do título */
+    text-align: center; /* Centraliza o texto */
+    margin-bottom: 20px; /* Espaço abaixo do título */
+}
+/* Estilo do subtítulo */
+h2 {
+    font-size: 1.8em; /* Tamanho do subtítulo */
+    color: #141414; /* Cor do subtítulo */
+    margin: 20px 0; /* Margem acima e abaixo */
+}
+/* Estilo para parágrafos */
+p {
+    font-size: 20px; /* Tamanho da fonte */
+    margin: 10px 0; /* Margem acima e abaixo */
+
+}
+/* Container para o conteúdo */
+.container {
+    max-width: 800px; /* Largura máxima */
+    margin: 0 auto; /* Centraliza o container */
+    background: rgb(96, 22, 235); /* Cor de fundo do container */
+    padding: 20px; /* Preenchimento do container */
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 0 0 10px rgb(82, 15, 236); /* Sombra */
+}
